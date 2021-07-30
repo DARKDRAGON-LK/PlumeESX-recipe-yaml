@@ -117,8 +117,8 @@ tasks:
     dest: ./resources/[esx]/esx_basicneeds
 
   - action: move_path
-    src: ./tmp/esx-legacy-main/[esx_addons]/e./resources/[esx]/esx_billing
-    dest: ./resources/[esx]/./resources/[esx]/esx_billing
+    src: ./tmp/esx-legacy-main/[esx_addons]/esx_billing
+    dest: ./resources/[esx]/esx_billing
 
   - action: move_path
     src: ./tmp/esx-legacy-main/[esx_addons]/esx_addoninventory
