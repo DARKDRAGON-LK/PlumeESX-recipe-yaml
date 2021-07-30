@@ -1,8 +1,7 @@
 $engine: 3
-name: PlumeESX
-version: 2.2.0
-author: Tabarra & Chip
-deveploed by : DARKDRAGON
+name: PlumeESXmode
+version: 2.2.1
+author: DARKDRAGON
 description: A full featured (13 jobs) and highly configurable yet lightweight ESX v1-final base that can be easily extended. 
 
 tasks:
