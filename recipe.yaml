@@ -78,7 +78,7 @@ tasks:
     dest: ./resources/instance
 
   - action: move_path
-    src: ./tmp/esx-framework-legacy/[esx]/skinchanger
+    src: ./tmp/esx-legacy-main/[esx]/skinchanger
     dest: ./resources/skinchanger
   - action: move_path
     src: ./tmp/esx-legacy-main/[esx]/es_extended
